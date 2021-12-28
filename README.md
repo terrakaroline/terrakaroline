@@ -1,8 +1,7 @@
 <h1> Hello, how are you? I'm Karoline! 🐱 </h1>
 
-- 🔭 Student of Information Systems at <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a>.
+- 🔭 Information Systems student in <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a>.
 - 🌱 Learning Web Development and Python.
-- 🤩 I don't like to be still, I really like new projects and challenges!
 - 
 <div align="center">
   <a href="https://github.com/terrakaroline">
