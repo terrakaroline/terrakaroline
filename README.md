@@ -1,4 +1,4 @@
-<h1> Olá, seja bem-vindo, eu sou a Karoline! 🐱 </h1>
+<h1> Olá, tudo bem? Eu sou a Karoline! 🐱 </h1>
 
 - 🔭 Estudante de Sistemas de Informação na <a href="">Universidade Federal do Rio Grande</a>.
 - 🌱 Aprendendo JavaScript e Python.
