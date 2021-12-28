@@ -1,9 +1,9 @@
-<h1> Olá, tudo bem? Eu sou a Karoline! 🐱 </h1>
+<h1> Hello, how are you? I'm Karoline! 🐱 </h1>
 
-- 🔭 Estudante de Sistemas de Informação na <a href="">Universidade Federal do Rio Grande</a>.
-- 🌱 Aprendendo Desenvolvimento Web e Python.
-- 🤩 Gosto muito de novos projetos e desafios!
-
+- 🔭 Student of Information Systems at <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a>.
+- 🌱 Learning Web Development and Python.
+- 🤩 I don't like to be still, I really like new projects and challenges!
+- 
 <div align="center">
   <a href="https://github.com/terrakaroline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrakaroline&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
