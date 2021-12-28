@@ -1,7 +1,7 @@
 <h1> Olá, tudo bem? Eu sou a Karoline! 🐱 </h1>
 
 - 🔭 Estudante de Sistemas de Informação na <a href="">Universidade Federal do Rio Grande</a>.
-- 🌱 Aprendendo JavaScript e Python.
+- 🌱 Aprendendo Desenvolvimento Web e Python.
 - 🤩 Gosto muito de novos projetos e desafios!
 
 <div align="center">
