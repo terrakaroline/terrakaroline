@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/terrakaroline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrakaroline&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrakaroline&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terrakaroline&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrakaroline&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
